@@ -1,0 +1,50 @@
+
+> web@0.0.0 lint
+> eslint . --quiet
+
+
+C:\Users\Nilalochan BV\Downloads\Arovia_2\apps\web\src\hooks\use-toast.js
+   32:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   33:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   43:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   46:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   49:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   52:2  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   53:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   56:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   58:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   59:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   60:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   62:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   64:2  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   66:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   68:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   71:2  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   75:3  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   77:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   80:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   82:2  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   83:2  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   85:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   86:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+   89:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  111:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  112:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  119:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  120:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  121:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  122:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  124:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  141:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  142:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+  144:1  error  Mixed spaces and tabs  no-mixed-spaces-and-tabs
+
+✖ 34 problems (34 errors, 0 warnings)
+
+npm error Lifecycle script `lint` failed with error:
+npm error code 1
+npm error path C:\Users\Nilalochan BV\Downloads\Arovia_2\apps\web
+npm error workspace web@0.0.0
+npm error location C:\Users\Nilalochan BV\Downloads\Arovia_2\apps\web
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c eslint . --quiet
